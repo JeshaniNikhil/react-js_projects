@@ -1,0 +1,7 @@
+npm i bootstrap jquery popper.js
+
+import { useState } from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+import React from 'react';
+import './index.css';
