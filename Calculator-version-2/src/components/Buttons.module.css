@@ -1,0 +1,15 @@
+.buttoncontainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+  background-color: khaki;
+  border-radius: 20px;
+}
+.button{
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+  margin: 3px;
+}
