@@ -33,5 +33,4 @@ function App() {
     </counterContext.Provider>
   )
 }
-
 export default App
